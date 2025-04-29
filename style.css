@@ -1,0 +1,35 @@
+body {
+    background-color: #aef0c4;
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+    width: 18%;
+    display: inline-block;
+    text-align:center;
+    height: 540px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.card img {
+    width: 100%;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+
+.button {
+    background-color: #aef0c4;
+    text-decoration: none;
+    color: #524f4e;
+    font-size: 20px;
+}
+
+.card p {
+    font-size: 17px;
+}
+
+.card h3 {
+    font-size: 24px;
+}
