@@ -11,6 +11,7 @@ body {
     height: 540px;
     border: 1px solid black;
     border-radius: 15px;
+    margin-top: 10px;
 }
 
 .card img {
@@ -24,6 +25,8 @@ body {
     text-decoration: none;
     color: #524f4e;
     font-size: 20px;
+    padding: 5px 40px;
+    border-radius: 25px;
 }
 
 .card p {
