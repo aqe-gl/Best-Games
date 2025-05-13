@@ -36,3 +36,30 @@ body {
 .card h3 {
     font-size: 24px;
 }
+
+.menuitem {
+    margin: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #800000;
+    border: 1px solid black;
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    border-radius: 45px;
+    box-shadow: 3px 5px 3px;
+}
+
+nav {
+    padding: 10px;
+}
+
+h1, h2 {
+    margin-top: 100px;
+    color: #4b0082;
+    font-size: 35px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
