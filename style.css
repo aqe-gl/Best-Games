@@ -63,3 +63,44 @@ h1, h2 {
 html {
     scroll-behavior: smooth;
   }
+
+caption {
+    margin-bottom: 20px;
+    font-size: 45px;
+    color: #4b0082;
+    text-shadow: 2px 2px 2px gray;
+}
+
+table {
+    width: 80%;
+    margin: 50px auto;
+}
+
+tr {
+    background-color: white;
+
+}
+
+td {
+    padding: 30px 10px 10px; 
+}
+
+th {
+    padding: 30px 10px 10px; 
+}
+
+.basic {
+    background-color: #ff0f83;
+}
+
+.pro {
+    background-color: #008305;
+}
+
+.gold {
+    background-color: #6400de;
+}
+
+.platinum {
+    background-color: #fca103;
+}
