@@ -74,19 +74,31 @@ caption {
 table {
     width: 80%;
     margin: 50px auto;
+    border-collapse: collapse;
 }
 
 tr {
-    background-color: white;
+    
 
 }
 
 td {
     padding: 30px 10px 10px; 
+    background-color: white;
+    border-bottom: 1px dashed gray;
+    border-left: 1px dashed gray;
+    border-right: 1px dashed gray;
 }
 
 th {
-    padding: 30px 10px 10px; 
+    padding: 30px 10px 10px;
+    height: 150px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-size: 22px;
+    text-shadow: 1px 1px 2px black; 
+    color: white;
+    width: 25%;
 }
 
 .basic {
@@ -94,7 +106,7 @@ th {
 }
 
 .pro {
-    background-color: #008305;
+    background-color: #036ee7;
 }
 
 .gold {
